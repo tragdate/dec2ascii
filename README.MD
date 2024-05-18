@@ -12,7 +12,7 @@ To compile and run **dec2ascii**, you need to have [Go](https://golang.org/) ins
 
 1. Clone this repository:
 ```bash
-git clone https://github.com/your-username/dec2ascii.git
+git clone https://github.com/tragdate/dec2ascii.git
 ```
 2. Navigate to the project directory:
 ```bash
